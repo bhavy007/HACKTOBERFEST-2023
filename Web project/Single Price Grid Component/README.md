@@ -6,7 +6,7 @@
 
 ### Hi! 👋🏻 Thanks for checking this out.
 
-### This is a simple frontend project to build a responsive single price grid component where you can learn how to make a grid layout using flexbox and also learn how to make your website interactive !
+### This is a simple frontend project to build a responsive single price grid component where you can learn how to make a grid layout using flexbox along with hands-on practice in building interactive elements in a website !
 <br/>
 
 ### To practice this frontend challenge, check out 👇🏻
